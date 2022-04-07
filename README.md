@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Amirhamidi2001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Amir Hamidi
+- 👀 I’m interested in python
+- 🌱 I’m currently learning django
+- 💞️ I’m looking to collaborate on web development
+- 📫 How to reach me https://t.me/Amirhamidi2001
 
 <!---
 Amirhamidi2001/Amirhamidi2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
